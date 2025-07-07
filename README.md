@@ -1,15 +1,15 @@
-# 🏥 Healthcare Appointment Booking App
+#  Healthcare Appointment Booking App
 
 A responsive healthcare appointment booking system built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This app allows patients to view doctor schedules, browse and book appointment slots, and manage bookings with filters and a clean UI.
 
-## 🚀 Features
+##  Features
 
-- 📅 Doctor Schedule with search
-- 🧾 All Appointments Table with filters & pagination
-- 🗓️ Weekly Slot Calendar with patient names on booked slots
-- 🧍 Book Appointment Popup with form & calendar
-- 📦 Reusable components using TypeScript interfaces
-- 📱 Fully responsive UI (mobile → desktop)
+-  Doctor Schedule with search
+-  All Appointments Table with filters & pagination
+-  Weekly Slot Calendar with patient names on booked slots
+-  Book Appointment Popup with form & calendar
+-  Reusable components using TypeScript interfaces
+-  Fully responsive UI (mobile → desktop)
 
 ##  Tech Stack
 
@@ -21,7 +21,7 @@ A responsive healthcare appointment booking system built with **Next.js**, **Typ
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 appointment-booking/
 │
@@ -59,7 +59,7 @@ appointment-booking/
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. **Clone the Repository**
 
