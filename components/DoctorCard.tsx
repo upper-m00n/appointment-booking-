@@ -7,6 +7,7 @@ interface Props {
 }
 
 const DoctorCard: React.FC<Props> = ({ doctor }) => {
+  //console.log(doctor)
   if (!doctor) {
     return <div className="text-red-500">No doctor data provided</div>;
   }
