@@ -20,5 +20,5 @@ export const mockAppointments: IAppointment[] = [
     status: "Pending",
     createdOn: "2025-07-06",
   },
-  // Add more as needed
+  
 ];
