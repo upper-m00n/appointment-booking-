@@ -11,7 +11,7 @@ A responsive healthcare appointment booking system built with **Next.js**, **Typ
 - 📦 Reusable components using TypeScript interfaces
 - 📱 Fully responsive UI (mobile → desktop)
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - **Next.js (App Router)**
 - **TypeScript**
