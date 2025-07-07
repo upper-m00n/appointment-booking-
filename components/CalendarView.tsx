@@ -28,7 +28,7 @@ const mockSlots: ISlot[] = [
     id: "3",
     doctorId: "d2",
     doctorName: "Dr. B. Mehta",
-    date: "2025-07-07",
+    date: "2025-07-08",
     time: "09:00 AM",
     booked: false,
   },
