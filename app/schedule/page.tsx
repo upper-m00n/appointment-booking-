@@ -15,7 +15,7 @@ export default function DoctorSchedulePage() {
 
   return (
     <div className="p-6 max-w-7xl mx-auto">
-      <h1 className="text-2xl font-bold text-[#00796B] mb-4">
+      <h1 className="text-2xl font-bold text-[#00796B] mb-4 rounded">
         Doctor Schedule
       </h1>
 
