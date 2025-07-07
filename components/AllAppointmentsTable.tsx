@@ -60,7 +60,7 @@ const AllAppointmentsTable: React.FC<Props> = ({ data }) => {
       </div>
 
       {/* Table */}
-      <div className="overflow-auto rounded-xl border bg-white shadow-sm">
+      <div className="overflow-auto rounded-2xl border bg-white shadow-sm">
         <table className="min-w-full text-sm">
           <thead className="bg-gray-100 text-gray-700">
             <tr>
