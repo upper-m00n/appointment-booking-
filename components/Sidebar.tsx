@@ -38,7 +38,7 @@ const Sidebar = () => {
 
   return (
     <aside className="h-screen w-64 bg-white border-r shadow-sm hidden md:flex flex-col">
-      <div className="px-6 py-4 font-bold text-xl text-[#00796B] border-b">
+      <div className="px-6 py-4 font-bold text-xl text-[#00796B] border-b rounded">
         HealthCare App
       </div>
       <nav className="flex-1 px-4 py-4 space-y-1">
